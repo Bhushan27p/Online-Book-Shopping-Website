@@ -28,12 +28,16 @@ Admins have the ability to manually process orders through the dashboard, ensuri
 ## 📸 Screenshots
 
 ### 🏠 Shop Page
+![shop](https://github.com/user-attachments/assets/524b45a3-0110-4c61-a3b6-7d60ab9233b4)
+
 
 ### 🛒 Cart Page
-![Cart Page](screenshots/cart.png)
+![cart1](https://github.com/user-attachments/assets/50c47a76-cb0e-4244-b0f9-7842df4d8703)
+
 
 ### 👨‍💼 Admin Dashboard
-![Admin Panel](screenshots/admin-panel.png)
+![image](https://github.com/user-attachments/assets/2905f191-8bef-470f-ad63-52ce5f9e8b3d)
+
 
 ---
 
